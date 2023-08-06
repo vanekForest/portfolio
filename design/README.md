@@ -7,10 +7,10 @@
 - [Дизайн сайта для интернет-магазина керамической посуды](https://www.behance.net/gallery/117292347/dizajn-sajta-dlja-internet-magazina-keramicheskoj-posudy)
 
 ### Логотипы
-- [#1 Логотип для салона красоты "Джангл"](https://www.behance.net/gallery/149212367/2-logotip-dlja-salona-krasoty-dzhangl)
+- [#1 Логотип для салона красоты "Джангл"](https://www.behance.net/gallery/149187031/1-logotip-dlja-salona-krasoty-dzhangl)
+- [#2 Логотип для салона красоты "Джангл"](https://www.behance.net/gallery/149212367/2-logotip-dlja-salona-krasoty-dzhangl)
 - [Логотип для компании Шок Берриз](https://www.behance.net/gallery/149211589/logotip-dlja-kompanii-shok-berriz)
 - [Логотип для бюро ритуальных услуг](https://www.behance.net/gallery/149198847/logotip-dlja-bjuro-ritualnyh-uslug)
-- [#2 Логотип для салона красоты "Джангл"](https://www.behance.net/gallery/149187031/1-logotip-dlja-salona-krasoty-dzhangl)
 - [Логотип для компании "Либерти"](https://www.behance.net/gallery/131467189/logotip-dlja-kompanii-liberti)
 - [Логотип для компании "Музыка стиля"](https://www.behance.net/gallery/132319005/logotip-dlja-kompanii-muzyka-stilja)
 - [Логотип для косметического бренда](https://www.behance.net/gallery/124607249/logotip-dlja-kosmeticheskogo-brenda)
