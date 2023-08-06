@@ -2,8 +2,8 @@
 
 ### Ниже представлены работы нашей команды:
 
-- [Дизайн]()
-- [Сайты]()
-- [Маркетинг]()
-- [Боты соц. сетей]()
+- [Дизайн](https://github.com/vanekForest/portfolio/blob/master/design/README.md)
+- [Сайты](https://github.com/vanekForest/portfolio/blob/master/websites/README.md)
+- [Маркетинг](https://github.com/vanekForest/portfolio/blob/master/marketing/README.md)
+- [Боты соц. сетей](https://github.com/vanekForest/portfolio/blob/master/bots/README.md)
 
